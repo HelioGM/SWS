@@ -1,6 +1,6 @@
 ---
 title: Presentación prototipo
-author: Helio
+author: "García-Mendívil, Helio A."
 date: '2023-11-12T19:48:00-08:00'
 slug: []
 categories:
@@ -23,5 +23,5 @@ series:
 image: ~
 ---
 
-<iframe src="https://sws-informe-ensayo-presentacion.netlify.app/" width="100%" height="600"></iframe>  
+<iframe src="https://sws-informe-ensayo-presentacion.netlify.app/" width="100%" height="700"></iframe>  
 <hr />

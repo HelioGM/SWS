@@ -40,7 +40,7 @@ header:
   imageRepeat: no-repeat
   imageSize: cover
   imageSrc: images/header/SWS_Background4.png
-  paddingX: 50
+  paddingX: 70
   paddingY: 0
   spaceBetweenTitleSubtitle: 20
   subtitle:

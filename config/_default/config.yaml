@@ -6,7 +6,7 @@ defaultContentLanguageInSubdir: yes
 hasCJKLanguage: yes
 summaryLength: 70
 buildFuture: yes
-copyright: '&copy;{year}, Derechos reservados'
+copyright: '&copy;{year}, Campo Experimental Norman E. Borlaug. Centro de Investigación Regional Noroeste.'
 timeout: 10000
 enableEmoji: yes
 paginate: 13
