@@ -1,4 +1,4 @@
-baseURL: http://example.org
+baseURL: "https://    sonoraweedscience1.netlify.app/"
 title: Hugo Zzo Theme
 theme: hugo-theme-zzo
 defaultContentLanguage: en
