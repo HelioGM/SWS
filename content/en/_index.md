@@ -24,12 +24,12 @@ header:
   paddingY: 0
   spaceBetweenTitleSubtitle: 16
   subtitle:
-  - The world’s fastest framework for building websites
+  - Sonora Weed Science
   subtitleColor: null
   subtitleCursive: true
   subtitleFontSize: 18
   title:
-  - HUGO
+  - SWS
   titleColor: null
   titleFontSize: 44
   titleShadow: true
@@ -39,7 +39,7 @@ header:
   imagePosition: center
   imageRepeat: no-repeat
   imageSize: cover
-  imageSrc: images/header/background.jpg
+  imageSrc: images/header/SWS_Background4.png
   paddingX: 50
   paddingY: 0
   spaceBetweenTitleSubtitle: 20

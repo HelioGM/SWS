@@ -1,12 +1,12 @@
 baseURL: "https://sonoraweedscience1.netlify.app/"
-title: Hugo Zzo Theme
+title: Sonora Weed Science
 theme: hugo-theme-zzo
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: yes
 hasCJKLanguage: yes
 summaryLength: 70
 buildFuture: yes
-copyright: '&copy;{year}, All Rights Reserved'
+copyright: '&copy;{year}, Derechos reservados'
 timeout: 10000
 enableEmoji: yes
 paginate: 13
