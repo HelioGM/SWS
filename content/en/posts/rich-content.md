@@ -3,7 +3,7 @@ author: Lee
 authorEmoji: "\U0001F47A"
 date: "2019-12-19T12:00:06+09:00"
 description: A brief description of Hugo Shortcodes
-draft: false
+draft: true
 enableToc: true
 enableTocContent: false
 hideToc: false

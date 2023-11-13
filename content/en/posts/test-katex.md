@@ -4,7 +4,7 @@ categories:
 date: "2019-11-15T12:00:06+09:00"
 description: KaTeX is a fast, easy-to-use JavaScript library for TeX math rendering
   on the web.
-draft: false
+draft: true
 enableToc: false
 enableTocContent: false
 image: images/feature2/mathbook.png

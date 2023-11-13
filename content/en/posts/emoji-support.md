@@ -3,7 +3,7 @@ author: Kim
 authorEmoji: "\U0001F47B"
 date: "2019-12-16T12:00:06+09:00"
 description: Guide to emoji usage in Hugo
-draft: false
+draft: true
 enableToc: true
 enableTocContent: false
 hideToc: false
